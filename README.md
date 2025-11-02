@@ -6,6 +6,8 @@ It automatically classifies and responds to customer emails using AI, reducing m
 
 ---
 
+<img width="1271" height="599" alt="Image" src="https://github.com/user-attachments/assets/d79d1e28-c368-4351-969e-1fc3e606a2fb" />
+
 ## Overview
 
 The client’s support team was spending hours replying to repetitive customer inquiries.
